@@ -11,3 +11,17 @@ query parameter
 
 
 302 重定向
+
+
+## build
+``` bash
+# setup
+
+pip install -r requirements.txt
+
+# run
+
+export FLASK_APP=application.py
+
+flask run
+```
