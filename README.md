@@ -1,6 +1,8 @@
 flask_sample
 ======
 
+> [documentation](http://flask.pocoo.org/docs/1.0/)
+
 
 slash trailing 目录
 without slash trailing 文件，不重定向，避免搜索引擎搜索两次
